@@ -1,0 +1,30 @@
+
+---
+
+## 🧠 Key Findings
+
+- **T cell exhaustion** occurs shortly after peak CAR-T expansion (~30 hrs).
+- **BCMA+ tumor cells** are depleted early but escape may occur via antigen loss.
+- Sensitivity analysis shows `k_exhaustion` is a key determinant of therapeutic failure.
+- Suggests combinatorial use of **checkpoint inhibitors** or **cytokine support**.
+
+---
+
+## 📚 Reference
+
+Lee et al. *Nature Medicine*, 2023 – scRNA-seq data from CAR-T patients (GSE dataset)  
+SimBiology model based on tumor-blood-bone marrow compartments with T cell–tumor interactions.
+
+---
+
+## 👨‍💻 Author
+
+**Binil Benny**  
+Pharmacometrician | QSP & PopPK | scRNA + Simulation  
+GitHub: [@binilbenny1696](https://github.com/binilbenny1696)
+
+---
+
+## 🪪 License
+
+Licensed under the [MIT License](LICENSE).
